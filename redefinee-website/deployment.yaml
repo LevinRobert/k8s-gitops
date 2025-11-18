@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: redefinee-website
-        image: levin16robert/redefinee-website-pipeline:1.0.0-38
+        image: levin16robert/redefinee-website-pipeline:1.0.0-39
         ports:
         - containerPort: 3000
